@@ -10,10 +10,15 @@ Saat dijalankan, alur dari program antara lain:
   5. Setelah login, akan muncul menu utama yang terdiri dari 7 pilihan:
 
      a. Tampilkan Menu (read_menu) untuk menampilkan daftar mobil secara keseluruhan atau secara spesifik
+     
      b. Menambah Mobil (create_menu) untuk menambahkan informasi mobil yang baru ke dalam daftar mobil
+     
      c. Menghapus Mobil (delete_menu) untuk menghapus informasi suatu mobil pada daftar mobil
+     
      d. Mengupdate Mobil (update_menu) untuk mengupdate data pada daftar mobil secara spesifik
      e. Merental Mobil (rental_menu) untuk merental mobil dan melakukan pembayaran
+     
      f. Review Program (review_menu) untuk memberikan review mengenai program
         pilihan ini hanya dapat diakses apabila user sudah menggunakan pilihan menu lain secara tuntas minimal sebanyak 5 kali dan sudah berhasil merental mobil
+        
      g. Keluar dari program untuk mengakhiri program
