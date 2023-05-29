@@ -8,6 +8,7 @@ Saat dijalankan, alur dari program antara lain:
   3. Pendaftaran ID dan Password wajib minimal 6 karakter berupa angka atau huruf (diluar itu tidak dapat mendaftar)
   4. Setelah mendaftar, dapat dilanjutkan untuk melakukan login
   5. Setelah login, akan muncul menu utama yang terdiri dari 7 pilihan:
+
      a. Tampilkan Menu (read_menu) untuk menampilkan daftar mobil secara keseluruhan atau secara spesifik
      b. Menambah Mobil (create_menu) untuk menambahkan informasi mobil yang baru ke dalam daftar mobil
      c. Menghapus Mobil (delete_menu) untuk menghapus informasi suatu mobil pada daftar mobil
