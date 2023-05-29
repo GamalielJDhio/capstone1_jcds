@@ -1,5 +1,6 @@
 # capstone1_jcds
 Tugas Capstone 1 - Pemrograman Dasar Python - Program Rental Mobil
+
 Program ini merupakan Capstone Project pertama dari JCDS (Job Connector Data Science) Purwadhika.
 Saat dijalankan, alur dari program antara lain:
   1. Pilihan login, dimana user harus login terlebih dahulu sebelum masuk ke menu utama
